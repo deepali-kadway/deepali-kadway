@@ -38,6 +38,9 @@ Designed and implemented an automated testing framework for an e-commerce platfo
 #### ✨ Part of FTTx (Fiber Rollout) Testing in India
 Part of JioFiber (FTTx) rollout, launch of fiber connectivity in India by Jio (equivalent of TELUS/Rogers), which now constitutes for more than 10 million JioFiber customers.
 
+#### ✨ Part of 4G to 5G telecom mobility in India
+Testing and Support lead for SIT during 4G to 5G telecom mobility rollout for Jio Platforms Limited in India.
+
 # 🌟 Certifications
 
 ### ISTQB CTFL Certified
