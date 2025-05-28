@@ -45,7 +45,9 @@ Testing and Support lead for SIT during 4G to 5G telecom mobility rollout for Ji
 
 ### ISTQB CTFL Certified
 
-### Kickstart Badge in AI/ML by Amii (Alberta Machine Learning Institute)
+### Kickstart Badge in AI/ML by Amii (Alberta Machine Intelligence Institute)
+
+### Machine Learning Foundations 1 & 2 by Amii (Alberta Machine Intelligence Institute)
 
 # 📞 Let's Connect!
 
