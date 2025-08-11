@@ -59,7 +59,4 @@ Machine Learning Foundations 1 & 2 by Amii (Alberta Machine Intelligence Institu
 
 LinkedIn: https://www.linkedin.com/in/deepali-kadway
 
-![Profile views](https://komarev.com/ghpvc/?username=deepali-kadway)
-
-
 #### 💡 "First, solve the problem. Then, write the code." – John Johnson
