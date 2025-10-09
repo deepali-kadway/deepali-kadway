@@ -54,6 +54,12 @@ I'm a passionate Full Stack Developer, along with experience as a QA Engineer an
 
 # 📊 Featured Projects
 
+#### ✨ WagInn – Pet-Friendly Stay Booking Platform
+Developed a full-stack web application that allows pet owners to search, book, and manage pet-friendly stays. Implemented secure authentication, host–user dashboards, property management, and booking workflows using the MEAN stack.
+
+#### ✨ Social Media App (MEAN Stack)
+Built a social media platform enabling users to create posts, like, comment, and follow/unfollow others. Designed a responsive Angular front end with a secure Node.js + Express backend and MongoDB for data handling.
+
 #### ✨ AI Chatbot for Hunkidori.in
 Developed and integrated a conversational AI chatbot using Chatbase.co to assist users in navigating Hunkidori's beauty website, improving customer engagement.
 
