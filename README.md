@@ -2,6 +2,8 @@
 
 I'm a passionate Full Stack Developer, along with experience as a QA Engineer and Technical Support. I love building scalable web applications, automating testing pipelines, and solving real-world problems with clean code and good design practices. Passionate about latest technologies and growth in AI/ML. I am currently working on projects using the MEAN stack.<br>Fun Fact: I love hiking and playing tennis.
 
+Portfolio Link: https://deepaliportfolio.lovable.app/
+
 # 💻 Tech Stack:
 
 ### 🧩 Frontend: 
