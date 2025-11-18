@@ -36,7 +36,7 @@ Portfolio Link: https://deepaliportfolio.lovable.app/
 
 💼 I bring 8+ years of experience across software development, testing, and customer-facing technical support roles.
 
-🧑‍💻 I specialize in JavaScript, Node.js, Express, React, and MongoDB on the development side.
+🧑‍💻 I specialize in Angular, JavaScript, Node.js, Express, React, and MongoDB on the development side.
 
 🔍 I also work with Selenium, TestNG, Vitest, SoapUI and Postman for QA automation and manual testing.
 
